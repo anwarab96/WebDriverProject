@@ -11,7 +11,7 @@ public class WebDriverField1 {
 	WebDriver driver = new FirefoxDriver();
 	driver.get("http://www.gmail.com");
 	/*WebElement username = driver.findElement(By.id("Email"));
-	username.sendKeys("anware");
+	username.sendKeys("true");
 	WebElement password = driver.findElement(By.id("password"));
 	password.sendKeys("xxxxxxxxxx");
 */
